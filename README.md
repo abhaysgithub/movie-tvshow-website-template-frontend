@@ -1,7 +1,7 @@
 # Movie & TV Show Website Template
 
-- check it out : **https://abhaysgithub.github.io/movie-tvshow-website-template-frontend/**
 ![Movie & TV Show Logo](link-to-your-logo.png)
+- check it out : **https://abhaysgithub.github.io/movie-tvshow-website-template-frontend/**
 
 ## Description
 
